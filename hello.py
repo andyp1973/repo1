@@ -1,2 +1,1 @@
-print("hello!")
-print("Counting")
+print("hello2")
